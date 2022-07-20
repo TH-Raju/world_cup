@@ -30,7 +30,7 @@ header {
     }
 
     to {
-        border-color: yellow, red, seagreen, skyblue;
+        border-color: yellow, red, seagreen;
     }
 }
 
@@ -153,6 +153,11 @@ main {
 
 .icon {
     margin-right: 10px;
+}
+
+.see {
+    color: red;
+    text-align: right;
 }
 
 
@@ -292,6 +297,10 @@ hr {
         margin-right: 15px;
     }
 
+    .see {
+        text-align: center;
+    }
+
     /* --------------------
 Footer Section CSS 
 ------------------ */
@@ -399,6 +408,11 @@ Tablet Screen
     .icon {
         margin-right: 15px;
     }
+
+    .see {
+        text-align: center;
+    }
+
 
     /* --------------------
 Footer Section CSS 

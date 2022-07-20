@@ -303,6 +303,10 @@ hr {
         margin-right: 15px;
     }
 
+    .see {
+        text-align: center;
+    }
+
     /* --------------------
 Footer Section CSS 
 ------------------ */
@@ -410,6 +414,10 @@ Tablet Screen
 
     .icon {
         margin-right: 15px;
+    }
+
+    .see {
+        text-align: center;
     }
 
     /* --------------------
