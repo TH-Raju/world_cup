@@ -154,6 +154,12 @@ main {
     margin: 2px;
 }
 
+.see {
+    color: red;
+    text-align: right;
+    margin-right: 10%
+}
+
 
 
 
@@ -417,7 +423,9 @@ Tablet Screen
     }
 
     .see {
+        color: red;
         text-align: center;
+
     }
 
     /* --------------------
